@@ -1,2 +1,2 @@
 # DevProfile
-# This is a full Android App develped with Android Studio and Kotlin.
+# This is a full Android App developed with Android Studio and Kotlin.
